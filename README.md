@@ -6,4 +6,6 @@ How'd you like to have your updown.io checks on your Tidbyt?
 
 Done.
 
+![Animated gif of the updown.io Tidbyt app. An example URL scrolls across the screen. Two status blocks are beneath it, one with a green up status and the other showing 123 millisecond response time.](updownio.gif)
 
+This project is a copy of the [updownio directory](https://github.com/tidbyt/community/tree/main/apps/updownio) in the [Tidbyt Community Apps repository](https://github.com/tidbyt/community).
